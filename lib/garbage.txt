@@ -1,0 +1,78 @@
+
+
+
+
+
+/*
+DropDownTextField(
+            enableSearch: true,
+            searchAutofocus: false,
+            //searchKeyboardType: TextInputType.text,
+            textFieldDecoration: const InputDecoration(
+              label: Text('Select Category'),
+            ),
+            searchDecoration: const InputDecoration(
+              floatingLabelAlignment: FloatingLabelAlignment.center,
+              alignLabelWithHint: false,
+              hintText: 'Search',
+            ),
+            validator: (value) {
+              if (value == null) {
+                return 'Required field';
+              } else {
+                return null;
+              }
+            },
+            dropDownItemCount: 5,
+            dropDownList: Category.values
+                .map(
+                  (category) => DropDownValueModel(
+                    name: category.name,
+                    value: category.name,
+                  ),
+                )
+                .toList(),
+          ),
+*/
+
+
+
+
+
+
+/*
+SizedBox(
+                    width: 170,
+                    child: TextField(
+                      controller: _amountController,
+                      maxLength: 10,
+                      keyboardType: TextInputType.number,
+                      decoration: const InputDecoration(
+                        prefixText: '\$',
+                        label: Text('Amount'),
+                      ),
+                    ),
+                  ),
+*/
+
+
+/*
+          GestureDetector(
+            onTap: _datePicker,
+            child: Row(
+              children: [
+                Text(
+                  _selectedDate == null
+                      ? 'Select Date'
+                      : formatter.format(_selectedDate!),
+                ),
+                const SizedBox(
+                  width: 6,
+                ),
+                const Icon(
+                  Icons.calendar_month,
+                ),
+              ],
+            ),
+          ),
+          */
