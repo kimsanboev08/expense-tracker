@@ -1,9 +1,5 @@
 # expense-tracker
-An Expense Tracker Mobile app built using Flutter Framework
-
-
-
-**Expense Tracker App Overview**
+**Overview**
 This Expense Tracker app, developed using the Flutter framework, provides a user-friendly and efficient solution for managing and tracking personal expenses. It offers a range of features that allow users to easily add, categorize, and monitor their expenditures, all while offering a visually appealing and intuitive user interface.
 
 *Key Features:*
