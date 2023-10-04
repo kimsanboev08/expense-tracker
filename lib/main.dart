@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       theme: ThemeData().copyWith(
         useMaterial3: true,
         cardTheme: const CardTheme().copyWith(
