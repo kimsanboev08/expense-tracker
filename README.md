@@ -40,11 +40,11 @@ This Expense Tracker app, developed using the Flutter framework, provides a user
 7. **User-Friendly UI:**
    - The app boasts an intuitive and responsive user interface, ensuring a seamless and enjoyable user experience.
 
-*Future Enhancements:*
+## Future Enhancements:
 
 - **Category and Payment Method Management:** Adding and removing expense categories and payment methods to accommodate users' evolving financial needs.
 
 - **Payment Method Tracking:** Expanding the app's charting capabilities to visualize expenses by payment method, offering additional insights into spending habits.
 
 
-Feel free to explore the app's source code in my GitHub repository, where you can also find detailed documentation and version history. If you're interested in discussing this project further or have any inquiries, please don't hesitate to reach out.
+*Feel free to explore the app's source code in my GitHub repository, where you can also find detailed documentation and version history. If you're interested in discussing this project further or have any inquiries, please don't hesitate to reach out.*
