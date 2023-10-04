@@ -2,6 +2,22 @@
 **Overview**
 This Expense Tracker app, developed using the Flutter framework, provides a user-friendly and efficient solution for managing and tracking personal expenses. It offers a range of features that allow users to easily add, categorize, and monitor their expenditures, all while offering a visually appealing and intuitive user interface.
 
+## Sample Screenshots
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="center"> 
+   <img src="assets/screenshots/Screenshot_1696434013.png" alt="Home Screen" width="270" height="570">      
+   <img src="assets/screenshots/Screenshot_1696434229.png" alt="Home Screen" width="270" height="570"> 
+   <img src="assets/screenshots/Screenshot_1696434267.png" alt="Home Screen" width="270" height="570"> 
+</p>       
+
+<p align="center">   
+   <img src="assets/screenshots/Screenshot_1696433984.png" alt="Add Expense" width="270" height="570">       
+   <img src="assets/screenshots/Screenshot_1696434088.png" alt="Expense Categories" width="270" height="570"> 
+   <img src="assets/screenshots/Screenshot_1696434096.png" alt="Payment Methods" width="270" height="570"> 
+   <img src="assets/screenshots/Screenshot_1696434062.png" alt="Payment Methods" width="270" height="570"> 
+</p>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 *Key Features:*
 
 1. **Expense Management:**
