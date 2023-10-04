@@ -17,8 +17,7 @@ This Expense Tracker app, developed using the Flutter framework, provides a user
    <img src="assets/screenshots/Screenshot_1696434062.png" alt="Payment Methods" width="270" height="570"> 
 </p>
 
-
-##***Key Features:***
+##Key Features:
 
 1. **Expense Management:**
    - Users can add and remove expenses effortlessly, helping them maintain an accurate record of their financial transactions.
